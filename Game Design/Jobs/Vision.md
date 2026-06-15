@@ -1,17 +1,13 @@
 ---
-
 aliases:
-
-* Jobs Vision
-* Professions Vision
-  tags:
-* game-design
-* professions
-* systems
-* vision
-
+  - Jobs Vision
+  - Professions Vision
+tags:
+  - game-design
+  - professions
+  - systems
+  - vision
 ---
-
 # Jobs - Vision
 
 Professions are one of the core pillars of the game.
@@ -23,48 +19,6 @@ Instead, each profession represents a complete way to experience the world, offe
 A player should be able to build their entire journey around a profession they genuinely enjoy.
 
 Whether they choose to become a fisherman, a hunter, a craftsman, a farmer, or any future profession, their choice should feel meaningful and respected by the game.
-
----
-
-## A Different Way To Play
-
-Traditional MMORPGs often treat professions as secondary systems.
-
-In this project, professions are designed as alternative playstyles.
-
-Each profession should provide:
-
-* Unique gameplay
-* Dedicated progression
-* Exclusive activities
-* Long-term goals
-* Meaningful social interactions
-
-The objective is not to support combat.
-
-The objective is to create multiple ways to enjoy the game.
-
----
-
-## Horizontal Progression
-
-Professions progress independently from character level.
-
-A player's profession level reflects their experience within that specific activity rather than their overall power.
-
-This separation allows players to progress at their own pace without being forced into activities they do not enjoy.
-
-A fisherman should not need to become a hunter.
-
-A craftsman should not need to fight monsters.
-
-A hunter should not need to gather resources.
-
-Every path should remain valid.
-
----
-
-
 
 ## Meaningful Progression
 

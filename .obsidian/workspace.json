@@ -13,46 +13,101 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Design/Dungeons/Dungeons Overview.md",
+                "file": "Game Design/Jobs/A Different Way To Play Jobs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dungeons Overview"
+              "title": "A Different Way To Play Jobs"
             }
           },
           {
-            "id": "d2b0c61819f0bda8",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "57305dc451f2c763",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "31df1341afdda8a0",
+            "id": "172737f6c6b678f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Design/Dungeons/Difficulty and Rewards.md",
-                "mode": "preview",
+                "file": "Game Design/Jobs/Vision.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Difficulty and Rewards"
+              "title": "Vision"
+            }
+          },
+          {
+            "id": "e7b108e23b743d8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Design/Jobs/Jobs Overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Jobs Overview"
+            }
+          },
+          {
+            "id": "4824eef5512439b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fisher.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fisher"
+            }
+          },
+          {
+            "id": "a5b1b0400bbe32f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Farmer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Farmer"
+            }
+          },
+          {
+            "id": "ba9cbcca61844074",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Miner.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Miner"
+            }
+          },
+          {
+            "id": "7d2290322dfc3ee2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Horizontal Progression.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Horizontal Progression"
             }
           }
-        ]
+        ],
+        "currentTab": 4,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -211,43 +266,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "d2b0c61819f0bda8",
+  "active": "a5b1b0400bbe32f7",
   "lastOpenFiles": [
-    "Game Design/Jobs/Vision.md",
-    "Game Design/Dungeons/Difficulty and Rewards.md",
+    "Fisher.md",
+    "Farmer.md",
     "Game Design/Jobs/Jobs Overview.md",
-    "Game Design/Jobs",
+    "Game Design/Jobs/Vision.md",
+    "Miner.md",
+    "Horizontal Progression.md",
+    "Game Design/Jobs/A Different Way To Play Jobs.md",
     "Game Design/Dungeons/Dungeons Overview.md",
-    "Game Design/Dungeons/Modular.md",
-    "Game Design/Dungeons/Encounters and Affixes.md",
-    "Game Design/Dungeons/Game Design/Dungeons/Discovery.md",
+    "Lore/World/Utu-gin.md",
+    "Lore/World/Robotiques.md",
+    "Lore/World/Monstres.md",
+    "Lore/World/Message d'espoir.md",
+    "Lore/World/Les modifiés.md",
+    "Lore/World/Les continents.md",
+    "Lore/World/Les conspis.md",
+    "Lore/World/Le virus Anugizud.md",
+    "Lore/World/La diégèse du monde.md",
+    "Lore/World/L'ère Suburru.md",
+    "Lore/World/L'ère Qaditim.md",
+    "Lore/World/L'ère Adamah.md",
+    "Lore/World/Kuralia.md",
+    "Lore/World/Isat.md",
+    "Lore/World/Infectés.md",
+    "Lore/World/Gensira.md",
+    "Lore/World/Bunkers.md",
+    "Lore/World",
+    "Lore/Meta/techniques de narration.md",
+    "Lore/Meta",
+    "Lore/world",
+    "Lore/meta",
+    "Lore",
+    "world",
+    "meta",
+    "Game Design/Jobs",
     "Game Design/Dungeons/Game Design/Dungeons",
-    "Game Design/Dungeons/Game Design",
-    "Vision/Vision Overview.md",
-    "Game Design/Dungeons/Game Design/Dungeons/Vision.md",
-    "Game Design/Index",
-    "Vision/Core Principles.md",
-    "Vision/Inspirations.md",
-    "Vision/Target.md",
-    "Vision/Pillars.md",
-    "Vision/Project Vision.md",
-    "Game Design/Dungeons/Goals.md",
-    "Game Design/Dungeons/Seasonal.md",
-    "Game Design/Dungeons/Discovery.md",
-    "Game Design/Dungeons/Vision.md",
-    "Game Design/Dungeons/Overview.md",
-    "Game Design/Dungeons/README.md",
-    "Game Design/README.md",
-    "Vision/README.md",
-    "Home.md",
-    "Game Design/Dungeons/Core Design - Goals.md",
-    "Game Design/Dungeons/Core Design - Seasonal.md",
-    "Game Design/Dungeons/Core Design - Difficulty and Rewards.md",
-    "Game Design/Dungeons/Core Design",
-    "Game Design/Dungeons/Core Ideas",
-    "Game Design/Dungeons",
-    "Game Design/Donjons/Core Ideas",
-    "Game Design/Donjons",
-    "Game Design"
+    "Game Design/Dungeons/Game Design"
   ]
 }
