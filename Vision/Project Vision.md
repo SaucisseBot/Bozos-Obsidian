@@ -1,4 +1,15 @@
-## What We Want to Build  
+---
+aliases:
+	- Project Vision
+tags:
+	- vision
+	- foundation
+---
+
+# Project Vision
+
+
+## What We Want to Build
   
 This project aims to recreate the feeling of the MMORPGs that defined a generation.  
   
@@ -18,7 +29,7 @@ A place where exploration, friendship, cooperation, and shared adventures matter
   
 ---  
   
-## Our Philosophy  
+## Our Philosophy
   
 The game should encourage players to enjoy the journey rather than rush toward an endgame.  
   
@@ -35,7 +46,7 @@ Helping another player, participating in an event, fishing with friends, or expl
   
 ---  
   
-## Social First  
+## Social First
   
 The project is built around a simple idea:  
   
@@ -55,8 +66,8 @@ Meeting a stranger should be just as valuable as playing with a long-time friend
   
 ---  
   
-## Long-Term Goal  
+## Long-Term Goal
   
-The ultimate objective is to create an MMORPG where players remember the people they met and the stories they lived more than the rewards they obtained.  
-  
+The ultimate objective is to create an MMORPG where players remember the people they met and the stories they lived more than the rewards they obtained.
+
 A world where community becomes the true endgame.

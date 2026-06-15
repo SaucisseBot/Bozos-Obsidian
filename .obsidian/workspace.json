@@ -13,26 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vision/3.Inspirations.md",
+                "file": "Game Design/Dungeons/Dungeons Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.Inspirations"
+              "title": "Dungeons Overview"
             }
           },
           {
-            "id": "8a84b402b933f2a9",
+            "id": "d2b0c61819f0bda8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "57305dc451f2c763",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31df1341afdda8a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vision/3.Inspirations.md",
-                "mode": "source",
+                "file": "Game Design/Dungeons/Difficulty and Rewards.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.Inspirations"
+              "title": "Difficulty and Rewards"
             }
           }
         ]
@@ -108,7 +125,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vision/3.Inspirations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3.Inspirations"
+              "title": "Backlinks"
             }
           },
           {
@@ -127,12 +143,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vision/3.Inspirations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 3.Inspirations"
+              "title": "Outgoing links"
             }
           },
           {
@@ -170,13 +185,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vision/3.Inspirations.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 3.Inspirations"
+              "title": "Outline"
             }
           }
         ]
@@ -197,27 +211,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "05b5f5cd85333a87",
+  "active": "d2b0c61819f0bda8",
   "lastOpenFiles": [
+    "Game Design/Jobs/Vision.md",
+    "Game Design/Dungeons/Difficulty and Rewards.md",
+    "Game Design/Jobs/Jobs Overview.md",
+    "Game Design/Jobs",
+    "Game Design/Dungeons/Dungeons Overview.md",
+    "Game Design/Dungeons/Modular.md",
+    "Game Design/Dungeons/Encounters and Affixes.md",
+    "Game Design/Dungeons/Game Design/Dungeons/Discovery.md",
+    "Game Design/Dungeons/Game Design/Dungeons",
+    "Game Design/Dungeons/Game Design",
+    "Vision/Vision Overview.md",
+    "Game Design/Dungeons/Game Design/Dungeons/Vision.md",
+    "Game Design/Index",
+    "Vision/Core Principles.md",
+    "Vision/Inspirations.md",
+    "Vision/Target.md",
+    "Vision/Pillars.md",
+    "Vision/Project Vision.md",
+    "Game Design/Dungeons/Goals.md",
+    "Game Design/Dungeons/Seasonal.md",
+    "Game Design/Dungeons/Discovery.md",
+    "Game Design/Dungeons/Vision.md",
+    "Game Design/Dungeons/Overview.md",
+    "Game Design/Dungeons/README.md",
+    "Game Design/README.md",
+    "Vision/README.md",
+    "Home.md",
+    "Game Design/Dungeons/Core Design - Goals.md",
+    "Game Design/Dungeons/Core Design - Seasonal.md",
+    "Game Design/Dungeons/Core Design - Difficulty and Rewards.md",
     "Game Design/Dungeons/Core Design",
     "Game Design/Dungeons/Core Ideas",
     "Game Design/Dungeons",
     "Game Design/Donjons/Core Ideas",
     "Game Design/Donjons",
-    "Game Design",
-    "Game Designe",
-    "Vision/Dragonica.md",
-    "Vision/2.Core Principles.md",
-    "Vision/3.Inspirations.md",
-    "Vision/4.Target.md",
-    "Vision/5.Pillars.md",
-    "Vision/1.Project Vision.md",
-    "Vision/Game Design/Game Design.md",
-    "Vision/Game Design/Jobs.md",
-    "Vision/Game Design/Untitled 1.md",
-    "README.md",
-    "Vision/Game Design",
-    "Untitled 1",
-    "Vision"
+    "Game Design"
   ]
 }

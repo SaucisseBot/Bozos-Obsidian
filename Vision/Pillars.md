@@ -1,4 +1,14 @@
+---
+aliases:
+	- Pillars
+	- Design Pillars
+tags:
+	- vision
+	- pillars
+---
+
 # Design Pillars
+
 
 ## Social First
 

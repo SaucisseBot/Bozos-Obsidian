@@ -1,4 +1,15 @@
-## MMORPG Inspirations  
+---
+aliases:
+	- Inspirations
+tags:
+	- vision
+	- inspirations
+---
+
+# Inspirations
+
+
+## MMORPG Inspirations
   
 ### [[Nostale]]  
   
@@ -74,7 +85,7 @@
   
 ---  
   
-## What We Want To Recreate  
+## What We Want To Recreate
   
 We are not trying to copy any specific game.  
   

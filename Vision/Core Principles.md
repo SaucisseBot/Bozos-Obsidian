@@ -1,4 +1,13 @@
-*
+---
+aliases:
+	- Core Principles
+tags:
+	- vision
+	- principles
+---
+
+# Core Principles
+
 Every design decision should respect these principles.
 
 ---
@@ -63,4 +72,4 @@ They should not gain overwhelming power that separates them from others.
 
 The ultimate goal of the project is not gear, levels, or wealth.
 
-It is the creation of a living community where players enjoy spending time together.*
+It is the creation of a living community where players enjoy spending time together.

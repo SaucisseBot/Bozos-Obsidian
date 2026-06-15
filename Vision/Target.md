@@ -1,3 +1,14 @@
+---
+aliases:
+	- Target Audience
+tags:
+	- vision
+	- audience
+---
+
+# Target Audience
+
+
 ## Target Audience
 
 Our target audience is primarily young adults and teenagers, roughly between 12 and 28 years old, who enjoy video games in a casual and social way.
