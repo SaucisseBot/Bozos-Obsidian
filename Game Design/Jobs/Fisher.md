@@ -15,6 +15,6 @@ The fisher's job is to find fish and treasure. Their job will be one of the most
 
 ## Ideas
 
-- Osu-mania-style mini game when a fish bites
+- Osu-mania-style mini game when a fish bites![[Osu.jpg|382]]
 - Boat expedition is a mix between Sea of thieves & Zelda wind waker
-	- Fishing spots will need to be scanned for, and once one is found, there is limited time to exploit it
+	- Fishing spots will need to be scanned for, and once one is found, there is limited time to exploit it![[WindWaker.jpg]]![[Skyblock_Water_Hotspot.png|289]]![[Stardew_Hotspot.jpg|303]]

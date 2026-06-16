@@ -18,5 +18,6 @@ The job will be quite repetitive but chill, and will primarily focus on planning
 
 ## Ideas
 
-* Maintaining a garden looks similar to stardew valley
-* The farming missions look similar to the competitive version of farming simulator
+* Maintaining a garden looks similar to stardew valley  ![[StardewValley.png]]
+
+* The farming missions look similar to the competitive version of farming simulator![[FarmingSimulator.jpg]]

@@ -18,4 +18,7 @@ The job is rather slow and steady. The gameplay mechanics should be based on res
 ## Ideas
 
 - Gems processing looks like the shape-matching mini-game in Mario Party
+![[Mario_Party_DingoPiqueur.png]]
+  
 - Gem extraction looks like the fossil mini-game from Pokemon Diamond and Pearl
+![[Pokemon_excavation.png|527]]
